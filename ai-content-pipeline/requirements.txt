@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langchain
+langgraph
+openai
+python-dotenv
+feedparser
+requests
+sqlalchemy
+psycopg2-binary
+chromadb
+celery
+redis
+apscheduler
